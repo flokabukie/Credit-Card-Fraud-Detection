@@ -21,7 +21,38 @@ Includes data scaling and standardization for improved model performance.
 
 Provides visualizations of anomaly scores and location plots for better understanding and decision-making.
 
+### *Models*
+**Isolation Forest:**
+ A machine learning algorithm for detecting anomalies based on the fact that anomalies are typically far from the majority of data points.
+
+**DBSCAN:**
+ A density-based clustering algorithm that identifies regions with a high density of data points as clusters.
+
+**Local Outlier Factor (LOF):** A method for detecting outliers in a dataset by measuring the local deviation of a given data point with respect to its neighbors.
+
+### *Results*
+Precision, recall, and AUC-PR scores for each model.
+
+Visualizations demonstrating the performance and effectiveness of the algorithms.
+Deployment
+This project includes a Streamlit web application that has been deployed on Hugging Face. You can interact with the deployed app here.
+
+Contributing
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+License
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
 ![Alt text](rtxt.png)
+
+![Alt text](files.png)
 
 Installation
 Clone the repository:
