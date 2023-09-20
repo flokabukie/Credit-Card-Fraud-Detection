@@ -50,6 +50,7 @@ Below are some screenshots of the app with all necessary files and running app
 ### *Installation*
 
 Clone the repository:
+
 ![Alt text](install.png)
 
 
