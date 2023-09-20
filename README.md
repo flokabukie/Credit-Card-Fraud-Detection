@@ -63,7 +63,7 @@ Kindly find the dataset for this challenge [here](https://www.kaggle.com/dataset
 ## Summary
 | Code      | Name        | ML Development Notebook|App Development| Deployed App | Medium Article |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
-| Credit Card Fraud Detection |Anomaly Detection| [Project Notebook](https://github.com/flokabukie/Credit-Card-Fraud-Detection/blob/main/CreditCardAnomalyDectection-ML-Anomaly%20(1).ipynb)  |[Streamlit App Notebook](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection/blob/main/app.py) |[Credit Card Fraud Detection with Streamlit](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection)| 
+| Credit Card Fraud Detection |Anomaly Detection| [Project Notebook](https://github.com/flokabukie/Credit-Card-Fraud-Detection/blob/main/CreditCardAnomalyDectection-ML-Anomaly%20(1).ipynb)  |[Streamlit App Notebook](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection/blob/main/app.py) |[Credit Card Fraud Detection with Streamlit](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection)|[Article](https://medium.com/@florentia.teye/detecting-credit-card-fraud-with-machine-learning-391d12c6efaa)
 
 
 ### *Contributing*
