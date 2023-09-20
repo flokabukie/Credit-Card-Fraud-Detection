@@ -34,37 +34,30 @@ Provides visualizations of anomaly scores and location plots for better understa
 Precision, recall, and AUC-PR scores for each model.
 
 Visualizations demonstrating the performance and effectiveness of the algorithms.
-Deployment
+
+### *Deployment*
+
 This project includes a Streamlit web application that has been deployed on Hugging Face. You can interact with the deployed app here.
 
-Contributing
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+Below are some screenshots of the app with all necessary files and running app
 
-License
-This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-![Alt text](rtxt.png)
 
 ![Alt text](files.png)
 
+![Alt text](<predict result.png>)
+
+### *Contributing*
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
 Installation
 Clone the repository:
+![Alt text](install.png)
 
-bash
-Copy code
-git clone https://github.com/username/credit-card-anomaly-detection.git
+
 Install the required dependencies:
+![Alt text](rtxt.png)
 
-bash
-Copy code
-pip install -r requirements.txt
+
 Usage
 Data Preparation:
 
