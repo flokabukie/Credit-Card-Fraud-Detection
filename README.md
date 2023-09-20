@@ -67,9 +67,31 @@ Kindly find the dataset for this challenge [here](https://www.kaggle.com/dataset
 
 
 ### *Contributing*
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+This project was prepared by Alidu Abubakar and Florentia Teye. Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. 
 
-You can interact with the deployed app here.
+## **Authors**
+#### **Florentia Teye**
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
+
+[![Alt text](image.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
+
+
+#### **Alidu Abubakar**
+
+Alidu is a data analyst with over 5 years of experience in the engineering
+sector with proficiencies in cloud computing (AWS, Google Cloud),
+machine learning, data modeling and visualization, and extract,
+transform, and load (ETL). He has experience with a variety of tools,
+including Python, SQL, Excel, Power Query, Power Pivot, AWS
+SageMaker, Power BI, and Google Looker. Alidu has successfully
+completed a number of end-to-end Machine Learning projects and he occasionally generative AI solutions. Check out his profile on LinkedIn.
+
+[![Alt text](image-3.png)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/)
+
+
+#### **You can interact with the deployed app via this link.** 
+[![Alt text](image-2.png)](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection)
+
 
 
 
