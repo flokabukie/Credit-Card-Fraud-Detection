@@ -60,9 +60,9 @@ Load the required dependencies:
 Kindly find the dataset for this challenge [here](https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection)
 
 ## Summary
-| Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
+| Code      | Name        | ML Development Notebook|App Development| Deployed App | Medium Article |
 |-----------|-------------|-------------:|-------------:|-------------|-------------|
-| Credit Card Fraud Detection |Anomaly Detection| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+| Credit Card Fraud Detection |Anomaly Detection| [Project Notebook](https://github.com/flokabukie/Credit-Card-Fraud-Detection/blob/main/CreditCardAnomalyDectection-ML-Anomaly%20(1).ipynb)  |[Streamlit App Notebook](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection/blob/main/app.py) |[Credit Card Fraud Detection with Streamlit](https://huggingface.co/spaces/flokabukie/Credit_Card_Fraud_Detection)| 
 
 
 ### *Contributing*
