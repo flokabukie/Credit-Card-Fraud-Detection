@@ -47,13 +47,23 @@ Below are some screenshots of the app with all necessary files and running app
 ![Alt text](<predict result.png>)
 
 
-Installation
+### *Installation*
+
 Clone the repository:
 ![Alt text](install.png)
 
 
 Load the required dependencies:
 ![Alt text](rtxt.png)
+
+### Dataset
+Kindly find the dataset for this challenge [here](https://www.kaggle.com/datasets/iabhishekofficial/creditcard-fraud-detection)
+
+## Summary
+| Code      | Name        | ML Development Notebook|App Development| Deployed App | PowerPoint Presentation of Challenge |
+|-----------|-------------|-------------:|-------------:|-------------|-------------|
+| Credit Card Fraud Detection |Anomaly Detection| [Project Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Notebook.ipynb/)  |[Gradio App Notebook](https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb/) |[Customer Churn App with Gradio](https://huggingface.co/spaces/Queensly/Customer_Churn/)| [PowerPoint Presentation]( https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20PowerPoint%20Presentation.pptx/) |
+
 
 ### *Contributing*
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
